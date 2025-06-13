@@ -1,0 +1,21 @@
+h1 {
+ color: blue;
+ font-family: sans-serif;
+}
+
+h2 {
+  color: orange;
+}
+
+p{
+  color: purple;
+  font-family: 'courier new'courier monospace ;
+}
+
+ul {
+  list-style-type: circle;
+  }
+
+ol{
+  list-style-type: upper-roman;
+}
